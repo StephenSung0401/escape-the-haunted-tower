@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Halloween.png</file>
+        <file>images/wall.png</file>
+        <file>images/BG.png</file>
+        <file>images/key-blue.png</file>
+        <file>images/key-yellow.png</file>
+        <file>images/potion-blue.png</file>
+        <file>images/potion-red.png</file>
+        <file>images/diamond-attack.png</file>
+        <file>images/diamond-defense.png</file>
+        <file>images/player-down.png</file>
+        <file>images/player-left.png</file>
+        <file>images/player-right.png</file>
+        <file>images/player-up.png</file>
+        <file>images/door-blue.png</file>
+        <file>images/door-yellow.png</file>
+        <file>images/stair-downleft.png</file>
+        <file>images/stair-upright.png</file>
+        <file>images/stair-upleft.png</file>
+        <file>images/stair-downright.png</file>
+        <file>images/exit.png</file>
+        <file>images/desmond.png</file>
+        <file>images/monster1.png</file>
+        <file>images/monster2.png</file>
+        <file>images/monster3.png</file>
+        <file>images/attack.png</file>
+        <file>levels/level2.txt</file>
+        <file>levels/level3.txt</file>
+        <file>levels/level1.txt</file>
+    </qresource>
+</RCC>
