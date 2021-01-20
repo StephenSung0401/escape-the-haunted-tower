@@ -1,0 +1,58 @@
+This file contains the reference to the images used in the game.
+
+Many of them are edited through photoshop, so it may not look the same as original source.
+
+The original source images are also contained in the images folder, in source folder.
+
+--------------------------------------------------------------------------------------------------------
+
+Below are the links that the images are retrieved:
+
+start screen:
+
+https://opengameart.org/content/halloween-backgroundsplatform
+
+ghost:
+
+https://opengameart.org/content/ghost-like-rpg-character
+https://opengameart.org/content/filthy-ectoplasm
+
+bat:
+
+https://opengameart.org/content/bats
+
+pumpkin:
+
+https://opengameart.org/content/evil-pumpkin-halloween-ff6-ish-styled-enemy-or-other
+
+wall & BG:
+
+https://opengameart.org/content/castle-tiles-for-rpgs
+
+door:
+
+https://opengameart.org/content/lpc-door-rework
+
+stair:
+
+https://opengameart.org/content/dungeon-stairs
+
+key:
+
+https://opengameart.org/content/key-icons
+
+potion:
+
+https://opengameart.org/content/potions-3
+
+Diamonds:
+
+https://opengameart.org/content/gems-0
+
+Player:
+
+https://opengameart.org/content/universal-lpc-sprite-male-01
+
+attack:
+
+https://opengameart.org/content/slash-effect
